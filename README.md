@@ -16,5 +16,7 @@ then we performed simulation and inculded safety measure for structure stability
 
 then we selected material and began fabrication. We repeatedly changed our design to fulfill requiments.
 
+https://github.com/rahulsaini21/Piezocell-charger/assets/97657676/9181edd9-f28a-4b5c-9d36-752798665e26
+
 
 
